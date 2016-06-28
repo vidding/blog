@@ -1,4 +1,5 @@
 # blog
 only blog no cake
 
-## [https://github.com/vidding/blog/issues]学习ES2015
+## 学习ES2015 
+[#1]https://github.com/vidding/blog/issues#1
